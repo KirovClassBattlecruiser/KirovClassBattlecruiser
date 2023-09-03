@@ -14,6 +14,6 @@ Not much asides from the fact that i love coding
 ## Contributions
 | Mainly                         | Sometimes     |
 |--------------------------------|---------------|
-| - My own game (Public soon<sup>TM</sup>) | Checking PR's of random repos         |
-| - Celestium (MC modded server)                |        |
-| - Godot / C# Leitner app             |               |
+| My own game (Public soon<sup>TM</sup>) | [Foundation-19 ](https://github.com/Foundation-19/Foundation-19)         |
+| Celestium (MC modded server)                | Checking PR's of random repos      |
+| Godot / C# Leitner app             |               |
