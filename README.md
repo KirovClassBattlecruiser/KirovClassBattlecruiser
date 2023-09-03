@@ -1,6 +1,8 @@
 ## :bust_in_silhouette: About me
 Not much asides from the fact that i love coding
 
+My Discord is "desertfennek." if you need anything.
+
 ## :computer: Technologies
 | I know                  | I am mildly familiar with | I am learning          |
 |-------------------------|---------------------------|------------------------|
@@ -16,4 +18,4 @@ Not much asides from the fact that i love coding
 |--------------------------------|---------------|
 | My own game (Public soon<sup>TM</sup>) | [Foundation-19 ](https://github.com/Foundation-19/Foundation-19)         |
 | Celestium (MC modded server)                | Checking PR's of random repos      |
-| Godot / C# Leitner app             |               |
+| [Godot / C# Leitner app](https://github.com/KirovClassBattlecruiser/Leitner-App)             |               |
