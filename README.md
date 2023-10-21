@@ -9,7 +9,7 @@ My Discord is "desertfennek." if you need anything.
 | Python                | C#                       | Dreammaker                   |
 | Forge                  | C++                       | C                     |
 | Godot                | Java                          | Unity                 |
-| Git                 |                           |                        |
+| Git                 |                           |  Rust                      |
 |              |                           |                        |
 >"I know" means that i know the syntax, best practices, data structures yadda yadda and have already developed personnal projects with it multiple times
 
