@@ -18,4 +18,4 @@ My Discord is "desertfennek." if you need anything.
 |--------------------------------|---------------|
 | My own game (Public soon<sup>TM</sup>) | [Foundation-19 ](https://github.com/Foundation-19/Foundation-19)         |
 | Celestium (MC modded server)                | Checking PR's of random repos      |
-| [Godot Leitner app](https://github.com/KirovClassBattlecruiser/Leitner-App)             |               |
+| [Relclis](https://crates.io/crates/Relclis)             |               |
